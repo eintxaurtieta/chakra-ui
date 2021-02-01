@@ -1,5 +1,17 @@
 # Change Log
 
+## 1.1.9
+
+### Patch Changes
+
+- [`f50934bdd`](https://github.com/chakra-ui/chakra-ui/commit/f50934bdd5ec47396464a0f4cb02af732f835ee5)
+  [#3228](https://github.com/chakra-ui/chakra-ui/pull/3228) Thanks
+  [@TimKolberger](https://github.com/TimKolberger)! - Updated peer dependency
+  version of @reach/alert to fix installation of @chakra-ui with npm v7
+- Updated dependencies
+  [[`408aaaace`](https://github.com/chakra-ui/chakra-ui/commit/408aaaace0dd413b61354958a4c30b9f2f8aa376)]:
+  - @chakra-ui/theme@1.6.0
+
 ## 1.1.8
 
 ### Patch Changes
