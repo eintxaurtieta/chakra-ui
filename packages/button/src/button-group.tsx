@@ -58,7 +58,7 @@ export const ButtonGroup = forwardRef<ButtonGroupProps, "div">((props, ref) => {
 
   const context = React.useMemo(
     () => ({ size, colorScheme, variant, isDisabled }),
-    [size, colorScheme, variant, isDisabled],
+    [colorScheme, variant, isDisabled],
   )
 
   let groupStyles: SystemStyleObject = {
