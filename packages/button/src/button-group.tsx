@@ -93,5 +93,5 @@ export const ButtonGroup = forwardRef<ButtonGroupProps, "div">((props, ref) => {
 })
 
 if (__DEV__) {
-  ButtonGroup.displayName = "ButtonGroup"
+  ButtonGroup.displayNames = "ButtonGroup"
 }
